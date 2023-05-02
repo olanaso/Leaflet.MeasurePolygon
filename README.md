@@ -16,9 +16,11 @@ To use the plugin, include the following files in your HTML file:
 ```html
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
 <link rel="stylesheet" href="https://unpkg.com/leaflet-draw@1.0.4/dist/leaflet.draw.css" />
+<link rel="stylesheet" href="https://prominentedge.com/leaflet-measure-path/leaflet-measure-path.css" />
 <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
 <script src="https://unpkg.com/leaflet-draw@1.0.4/dist/leaflet.draw.js"></script>
-<link rel="stylesheet" href="../leaflet-measure-path.css" />
+<script src="https://npmcdn.com/leaflet-editable@0.6.2/src/Leaflet.Editable.js" ></script>
+<script src="https://prominentedge.com/leaflet-measure-path/leaflet-measure-path.js"></script>
 
 ```
 
