@@ -26,7 +26,7 @@ To use the plugin, include the following files in your HTML file:
 
 Then, add the plugin code to your project. You can find the full code for the plugin in the original question.
 
-If failed Editable use editable.js from folder libs
+If failed Editable library use editable.js from folder *libs*
 
 ## Usage
 
