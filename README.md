@@ -53,7 +53,7 @@ The plugin can be customized with various options:
 | position | String | 'topright' | Position of the control on the map. |
 | icon_active | String | URL | URL of the active state icon. |
 | icon_inactive | String | URL | URL of the inactive state icon. |
-| html_template | String | Template | HTML template for displaying the measurement results. |
+| html_template | String | Template | HTML template to show the results of the measurement, in your template there must be "_p_area" and "_p_perimetro" this will be replaced by area and perimeter   |
 | height | Number | 130 | Height of the measurement results panel. |
 | width | Number | 150 | Width of the measurement results panel. |
 | color_polygon | String | 'black' | Color of the polygon outline. |
