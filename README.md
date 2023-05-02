@@ -59,7 +59,6 @@ The plugin can be customized with various options:
 | color_polygon | String | 'black' | Color of the polygon outline. |
 | fillColor_polygon | String | 'yellow' | Fill color of the polygon. |
 | weight_polygon | String | '2' | Width of the polygon outline. |
-| checkonedrawpoligon | Boolean | false | Whether only one polygon can be drawn at a time. |
 | msj_disable_tool | String | '¿Desea desabilitar la herramienta?' | Message displayed when disabling the tool. |
 
 To customize the plugin with these options, pass an object with the desired options when creating a new instance of the `L.Control.MeasurePolygon` control:
@@ -71,7 +70,6 @@ const customOptions = {
     color_polygon: 'blue',
     fillColor_polygon: 'green',
     weight_polygon: 3,
-    checkonedrawpoligon: true,
     msj_disable_tool: 'Do you want to disable the tool?'
 };
 
