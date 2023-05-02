@@ -1,6 +1,7 @@
 # Leaflet Measure Polygon 
 
-demo https://olanaso.github.io/Leaflet.MeasurePolygon/
+Demo https://olanaso.github.io/Leaflet.MeasurePolygon/
+
 ## Overview
 
 The Leaflet Measure Polygon plugin allows users to measure the area and perimeter of polygons drawn on a Leaflet map. It is built on top of Leaflet.js and requires the following dependencies:
