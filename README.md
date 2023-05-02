@@ -26,6 +26,8 @@ To use the plugin, include the following files in your HTML file:
 
 Then, add the plugin code to your project. You can find the full code for the plugin in the original question.
 
+If failed Editable use editable.js from folder libs
+
 ## Usage
 
 To add the Measure Polygon control to your map, first initialize your map with the `editable` option set to `true`. Then, create a new instance of the `L.Control.MeasurePolygon` control and add it to your map:
