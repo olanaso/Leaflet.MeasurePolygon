@@ -1,4 +1,4 @@
-# Leaflet Measure Polygon Plugin Documentation
+# Leaflet Measure Polygon 
 
 ## Overview
 
