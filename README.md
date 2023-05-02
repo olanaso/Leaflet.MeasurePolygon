@@ -19,8 +19,7 @@ To use the plugin, include the following files in your HTML file:
 <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
 <script src="https://unpkg.com/leaflet-draw@1.0.4/dist/leaflet.draw.js"></script>
 <link rel="stylesheet" href="../leaflet-measure-path.css" />
-<script src="auxiliares/editable.js"></script>
-<script src="auxiliares/measure.js"></script>
+
 ```
 
 Then, add the plugin code to your project. You can find the full code for the plugin in the original question.
